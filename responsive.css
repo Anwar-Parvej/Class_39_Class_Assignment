@@ -334,7 +334,7 @@
       float: left;
     }
     .services_section {
-      border-bottom: 1px solid #1abc9c88;
+      border-bottom: 2px solid #1abc9c88;
     }
   }
   
@@ -758,7 +758,7 @@
   }
   
   .services_section {
-    border-bottom: 1px solid #1abc9c88;
+    border-bottom: 2px solid #1abc9c88;
   }
   
   @media all and (max-width: 336px) {
